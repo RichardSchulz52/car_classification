@@ -1,0 +1,10 @@
+name: car_classification
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - python
+  - ipykernel
+  - matplotlib
+  - widgetsnbextension
+  - ipywidgets
